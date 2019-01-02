@@ -1,1 +1,2 @@
 # HF-FRC-2017-code
+This is our code from the 2017 year.  This was the first year we used seperate classes for different systems of the robot beyond just for sensors or a generic piston.  This year started creating classes for a complex device such as shoot, climber, etc..   Also one our first years really using more vision processing - after going through other options like a Kangaroo computer ended up on using a rasberry pi.
